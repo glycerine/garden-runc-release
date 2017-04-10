@@ -103,7 +103,7 @@
 	branch = master
 [submodule "src/github.com/vishvananda/netlink"]
 	path = src/github.com/vishvananda/netlink
-	url = https://github.com/vishvananda/netlink
+	url = https://github.com/cloudfoundry-incubator/netlink
 	branch = master
 [submodule "src/github.com/eapache/go-resiliency"]
 	path = src/github.com/eapache/go-resiliency
